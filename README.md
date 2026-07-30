@@ -1,2 +1,1 @@
-# M42_WebAssets
-Custom Assets For A In-Dev Web Version Of A Mobile Game
+This is the image assets page. All uploaded images in the game can be found here.
